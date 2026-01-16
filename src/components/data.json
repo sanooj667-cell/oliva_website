@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Item One",
+    "description": "This is the first item.",
+    "price": 299,
+    "image": "/images/f1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Item Two",
+    "description": "This is the second item.",
+    "price": 349,
+    "image": "/images/f2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Item Three",
+    "description": "This is the third item.",
+    "price": 199,
+    "image": "/images/f3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Item Four",
+    "description": "This is the fourth item.",
+    "price": 499,
+    "image": "/images/f4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Item Five",
+    "description": "This is the fifth item.",
+    "price": 259,
+    "image": "/images/f5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Item Six",
+    "description": "This is the sixth item.",
+    "price": 399,
+    "image": "/images/f6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Item Seven",
+    "description": "This is the seventh item.",
+    "price": 149,
+    "image": "/images/f7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Item Eight",
+    "description": "This is the eighth item.",
+    "price": 599,
+    "image": "/images/f8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Item Nine",
+    "description": "This is the ninth item.",
+    "price": 279,
+    "image": "/images/n1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Item Ten",
+    "description": "This is the tenth item.",
+    "price": 329,
+    "image": "/images/n2.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Item Eleven",
+    "description": "This is the eleventh item.",
+    "price": 189,
+    "image": "/images/n3.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Item Twelve",
+    "description": "This is the twelfth item.",
+    "price": 449,
+    "image": "/images/n4.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Item Thirteen",
+    "description": "This is the thirteenth item.",
+    "price": 369,
+    "image": "/images/n5.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Item Fourteen",
+    "description": "This is the fourteenth item.",
+    "price": 529,
+    "image": "/images/n6.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Item Fifteen",
+    "description": "This is the fifteenth item.",
+    "price": 219,
+    "image": "/images/n7.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Item Sixteen",
+    "description": "This is the sixteenth item.",
+    "price": 649,
+    "image": "/images/n8.jpg"
+  }
+]
