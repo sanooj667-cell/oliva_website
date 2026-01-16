@@ -1,9 +1,9 @@
 import React, { useRef, useState } from 'react'
-import Card from './card'
 import productData from "./data.json"
 import Poup from './Poup'
 import toast from 'react-hot-toast';
 import Form from './Form';
+import Card from './card';
 
 
 export default function Hero() {
