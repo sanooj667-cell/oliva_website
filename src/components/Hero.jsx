@@ -8,7 +8,6 @@ import Card from './card';
 
 export default function Hero() {
           
-
   const [data, setData] = useState(productData)
   const [open, setOpen] = useState("hidden")
 
