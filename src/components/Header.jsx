@@ -12,10 +12,10 @@ export default function Header() {
 
       {/* Navigation */}
       <nav className="hidden md:flex gap-6 text-gray-600 font-medium">
-        <Link><a href="#" className="hover:text-indigo-600">Home</a></Link>
-        <a href="#" className="hover:text-indigo-600">About</a>
-        <a href="#" className="hover:text-indigo-600">Services</a>
-        <a href="#" className="hover:text-indigo-600">Contact</a>
+        <Link to={"/"}><p href="#" className="hover:text-indigo-600">Home</p></Link>
+        <p href="#" className="hover:text-indigo-600">About</p>
+        <p href="#" className="hover:text-indigo-600">Services</p>
+        <p href="#" className="hover:text-indigo-600">Contact</p>
       </nav>
 
       {/* Button */}
