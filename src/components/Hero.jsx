@@ -3,7 +3,7 @@ import productData from "./data.json"
 import Poup from './Poup'
 import toast from 'react-hot-toast';
 import Form from './Form';
-import Card from './card';
+import Card from './Card';
 
 
 export default function Hero() {
